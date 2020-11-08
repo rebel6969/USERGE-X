@@ -4,11 +4,10 @@ wget2
 pv
 p7zip-full
 mediainfo
-lynx
 rtorrent
 x265
 pkg-config
 atomicparsley
-upx
 coreutils
 apktool
+default-jre
