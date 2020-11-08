@@ -9,10 +9,6 @@ rtorrent
 x265
 pkg-config
 atomicparsley
-youtube-dl
-ffmpeg
-aria2
 upx
 coreutils
-build-essential
 apktool
