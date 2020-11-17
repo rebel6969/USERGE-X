@@ -4,8 +4,8 @@ wget2
 pv
 p7zip-full
 mediainfo
-rtorrent
 x265
 pkg-config
 atomicparsley
 coreutils
+streamlink
